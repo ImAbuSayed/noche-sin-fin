@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-fin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-fin/) |
+| **Get License** | [Music Rights & Licensing for Noche sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-fin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ea42898e44b0d44eb3d71098ac3560b46c73b6b1467c9f4058b3b16ccf8cab4` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
