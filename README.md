@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-fin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-fin/) |
+| **Get License** | [Get a Licensing Quote for Noche sin fin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-fin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la luna sabe que te tengo ganas
+> Dando vueltas en la calle de la noche a la mañana
+> You got that fire que mi cuerpo reclama
+> Una noche sin fin, tú y yo en la misma cama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
